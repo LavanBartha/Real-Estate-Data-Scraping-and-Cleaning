@@ -14,7 +14,7 @@ This Python script scrapes real estate property data from Makaan.com for Bangalo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/LavanBartha/Data-Scraping-and-Cleaning.git)>
 
 2. Install dependencies:
 
