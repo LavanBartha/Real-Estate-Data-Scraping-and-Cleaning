@@ -14,10 +14,11 @@ This Python script scrapes real estate property data from Makaan.com for Bangalo
 1. Clone the repository:
 
    ```bash
-   https://github.com/LavanBartha/Data-Scraping-and-Cleaning.git
+   git clone https://github.com/LavanBartha/Data-Scraping-and-Cleaning.git
 
 2. Install dependencies:
 
+   ```bash
    pip install beautifulsoup4 requests pandas
 
 ## Usage
