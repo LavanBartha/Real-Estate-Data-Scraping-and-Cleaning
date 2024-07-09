@@ -6,7 +6,6 @@ This Python script scrapes real estate property data from Makaan.com for Bangalo
 
 - Python 3.x
 - BeautifulSoup (`bs4`)
-- requests
 - pandas
 
 ## Installation
@@ -23,14 +22,12 @@ This Python script scrapes real estate property data from Makaan.com for Bangalo
 
 ## Usage
 
-1. Modify the url variable in the script (main.py) to change the Makaan.com URL if needed.
+1. Adjust the page variable to specify the number of pages to scrape.
 
-2. Adjust the page variable to specify the number of pages to scrape.
-
-3. Run the script:
+2. Run the script:
 
      python main.py
-4. The script will output details of each property to the console and save the data to a CSV file (Dataset1.csv) (change the location as required).
+3. The script will output details of each property to the console and save the data to a CSV file (Dataset1.csv) (change the location as required).
 
 ## Output
 
@@ -50,4 +47,4 @@ The script generates a CSV file containing the following columns:
 - Bathrooms
 
 
-`https://github.com/LavanBartha/Data-Scraping-and-Cleaning`
+`https://github.com/LavanBartha/Real-Estate-Data-Scraping-and-Cleaning`
