@@ -1,4 +1,4 @@
-# Real Estate Data Scraping and Parsing
+# Real Estate Data Scraping and Cleaning
 
 This Python script scrapes real estate property data from Makaan.com for Bangalore city, using BeautifulSoup and requests libraries. It fetches details such as company name, project name, property type, RERA details, location coordinates, pricing, area details, construction status, and bathrooms count from multiple pages.
 
